@@ -31,5 +31,8 @@
   <img src="https://github.com/YoruAlptraum/YoruAlptraum/blob/ec37e20e124fc4b90f01e330f313c9a338e3e611/resources/my_website-ezgif.com-optimize.gif?raw=True">
 </a>
 
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoruAlptraum/YoruAlptraum/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoruAlptraum/YoruAlptraum/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YoruAlptraum/YoruAlptraum/output/github-contribution-grid-snake.svg">
+</picture>
