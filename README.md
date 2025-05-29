@@ -8,11 +8,11 @@
 <!-- Hello! I'm Thiago Ozawa, I'm not completely sure if I can say I am something  -->
 
 <h2 align="center">
-    <img alt="Commits, most used languages and other stats" src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&duration=4900&pause=2500&color=ededed&vCenter=true&width=560&height=50&lines=Commits%2C+most+used+languages+and+other+stats" />
+    <img alt="Commits, most used languages and other stats" src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&duration=1500&pause=2500&color=ededed&vCenter=true&width=170&height=50&lines=Account+Stats" />
 </h2>
 
 <div align="center">
-    <p align="center">Profile View Count</p>
+    <p align="center">Profile Views</p>
     <img alt="views_counter" src="https://profile-counter.glitch.me/YoruAlptraum/count.svg">
 </div>
 
@@ -28,9 +28,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoruAlptraum/YoruAlptraum/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YoruAlptraum/YoruAlptraum/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img src="https://raw.githubusercontent.com/YoruAlptraum/YoruAlptraum/main/resources/line-separator.gif"/>
-
-<a align="center" width="50vw" href="https://ozawathiago.vercel.app" target="_blank">    
-  <img src="https://raw.githubusercontent.com/YoruAlptraum/YoruAlptraum/main/resources/my_website-ezgif.com-optimize.gif">
-</a>
