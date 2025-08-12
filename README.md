@@ -11,10 +11,9 @@
     <img alt="Commits, most used languages and other stats" src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&duration=1500&pause=2500&color=ededed&vCenter=true&width=170&height=50&lines=Account+Stats" />
 </h2>
 
-<div align="center">
-    <p align="center">Profile Views</p>
-    <img alt="views_counter" src="https://profile-counter.glitch.me/YoruAlptraum/count.svg">
-</div>
+<p align="center">
+  <img alt="github profile view count" src="https://komarev.com/ghpvc/?username=yorualptraum&color=1a1b27&abbreviated=true&style=for-the-badge&label=views">
+</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YoruAlptraum&custom_title=GitHub%20Activity%20Graph&theme=tokyo-night&area=true&hide_border=true)](https://github.com/YoruAlptraum/github-readme-activity-graph)
 
