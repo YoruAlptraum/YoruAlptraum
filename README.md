@@ -15,7 +15,7 @@
   <img alt="github profile view count" src="https://komarev.com/ghpvc/?username=yorualptraum&color=1a1b27&abbreviated=true&style=for-the-badge&label=views">
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YoruAlptraum&custom_title=GitHub%20Activity%20Graph&theme=tokyo-night&area=true&hide_border=true)](https://github.com/YoruAlptraum/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YoruAlptraum&custom_title=Commit%20Activity%20Graph&theme=tokyo-night&area=true&hide_border=true)](https://github.com/YoruAlptraum/github-readme-activity-graph)
 
 <div align="center">
   <img alt="stats" height="192em" src="https://github-readme-stats.vercel.app/api?username=YoruAlptraum&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
